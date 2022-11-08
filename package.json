@@ -1,0 +1,19 @@
+{
+  "name": "hmrprogram-ripper",
+  "version": "1.0.0",
+  "description": "rips hmrprogram of its recipes before the website is shut down at the end of november",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ddiblis/hmrprogram-recipes.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ddiblis/hmrprogram-recipes/issues"
+  },
+  "homepage": "https://github.com/ddiblis/hmrprogram-recipes#readme"
+}
